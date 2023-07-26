@@ -1,0 +1,8 @@
+/dist
+/node_modules
+/.vscode
+/types
+/coverage
+CHANGELOG.md
+test/typescript/data.ts
+tmp.js
